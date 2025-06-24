@@ -1,4 +1,5 @@
-<h1 align="center">Namaste, I'm Ipshita Rawat✨</h1>
+<img src="ipshita.svg" alt="Namaste, I'm Ipshita Rawat✨" />
+
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cizelle&label=Profile%20views&color=0e75b6&style=flat" alt="cizelle" /> </p>
