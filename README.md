@@ -11,7 +11,7 @@
 
 <li> 💬 Ask me about astrology, backend and android
 
-<li> 📫 How to reach me rawatipshita07@gmail.com
+<li> 📫 Reach out to me at: <a href="mailto:rawatipshita07@gmail.com">rawatipshita07@gmail.com</a>
 
 </ul>
 <hr>
@@ -86,6 +86,7 @@
 
   </a>
 
-</div>
+</div> <br>
+<img src="snowflake.svg" alt="Thanks, bye✨" />
 
 
