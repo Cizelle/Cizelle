@@ -75,15 +75,16 @@
 
 <div align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+<h3 align="left">More</h3>
   
   <a href="https://github.com/Cizelle/Cizelle/issues/1" target="_blank">
-    <img src="guestbook.png" alt="Guestbook" height="24" />
-    Sign My Guestbook
+    <img src="guestbook.png" alt="Guestbook" height="150" />
+ 
   </a>
-  
+  <br><br>
   <a href="https://ipshita.info" target="_blank">
-    <img src="portfolio.png" alt="Portfolio" height="24" />
-    Visit My Portfolio
+    <img src="portfolio.png" alt="Portfolio" height="100" />
+
   </a>
 
 </div>
