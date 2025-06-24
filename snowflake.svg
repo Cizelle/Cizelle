@@ -17,7 +17,7 @@
           position: fixed;
           top: -10%;
           color: #fff;
-          font-size: 0.5em;
+          font-size: 1em;
           font-family: Arial;
           text-shadow: 0 0 3px #000;
           user-select: none;
