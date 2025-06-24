@@ -49,10 +49,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cizelle&show_icons=true&locale=en" alt="cizelle" /></p>
 
 <h3 align="left">Where to find me:</h3>
-<p align="left">
-<a href="https://twitter.com/ipshitaarawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipshitaarawat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ipshita-rawat-8939a0231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ipshita-rawat-8939a0231/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ipshitarawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ipshitarawat" height="30" width="40" /></a>
-</p> <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cizelle&label=Profile%20views&color=0e75b6&style=flat" alt="cizelle" /> </p>
+<p align="left">
+  <a href="https://twitter.com/ipshitaarawat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipshitaarawat" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ipshita-rawat-8939a0231/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ipshitarawat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+
+<div align="center" style="margin: 40px 0;">
+  <a href="https://github.com/Cizelle/Cizelle/issues/1" 
+     style="text-decoration: none; display: inline-flex; align-items: center; gap: 20px;">
+    <img src="guestbook.png" alt="Guestbook" height="64" />
+       <span style="font-size: 32px; font-weight: 600; color: #58a6ff;">Sign My Guestbook</span>
+  </a>
+</div>
+
+<p align="left" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=cizelle&label=Profile%20views&color=0e75b6&style=flat" alt="cizelle" />
+</p>
+
