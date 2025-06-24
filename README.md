@@ -2,18 +2,19 @@
 
 <h3 align="center">A passionate software developer from India</h3>
 
+<hr>
+<h3 align="left">About Me:</h3>
+<ul>
+<li>🌱 I’m currently learning Java
 
+<li> 👨‍💻 All of my projects are available at : https://ipshita.info/
 
-- 🌱 I’m currently learning **DSA**
+<li> 💬 Ask me about astrology, backend and android
 
-- 👨‍💻 All of my projects are available at [https://ipshita.info/](https://ipshita.info/)
+<li> 📫 How to reach me rawatipshita07@gmail.com
 
-- 💬 Ask me about **astrology, backend and android**
-
-- 📫 How to reach me **rawatipshita07@gmail.com**
-
-
-
+</ul>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -42,11 +43,18 @@
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" alt="TypeScript" />
 </p>
-<br>
 
+
+<hr>
+<h3 align="left">Stats:</h3>
+<p align="left" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=cizelle&label=Profile%20views&color=0e75b6&style=flat" alt="cizelle" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cizelle&show_icons=true&locale=en&layout=compact" alt="cizelle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cizelle&show_icons=true&locale=en" alt="cizelle" /></p>
+
+<hr>
 
 <h3 align="left">Where to find me:</h3>
 
@@ -62,16 +70,22 @@
   </a>
 </p>
 
+<hr>
 
-<div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/Cizelle/Cizelle/issues/1" 
-     style="text-decoration: none; display: inline-flex; align-items: center; gap: 20px;">
-    <img src="guestbook.png" alt="Guestbook" height="64" />
-       <span style="font-size: 32px; font-weight: 600; color: #58a6ff;">Sign My Guestbook</span>
+
+<div align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  
+  <a href="https://github.com/Cizelle/Cizelle/issues/1" target="_blank">
+    <img src="guestbook.png" alt="Guestbook" height="24" />
+    Sign My Guestbook
   </a>
+  
+  <a href="https://ipshita.info" target="_blank">
+    <img src="portfolio.png" alt="Portfolio" height="24" />
+    Visit My Portfolio
+  </a>
+
 </div>
 
-<p align="left" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=cizelle&label=Profile%20views&color=0e75b6&style=flat" alt="cizelle" />
-</p>
 
