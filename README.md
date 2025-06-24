@@ -78,10 +78,9 @@
 <h3 align="left">More</h3>
   
   <a href="https://github.com/Cizelle/Cizelle/issues/1" target="_blank">
-    <img src="guestbook.png" alt="Guestbook" height="150" />
+    <img src="guestbook.png" alt="Guestbook" height="100" />
  
   </a>
-  <br><br>
   <a href="https://ipshita.info" target="_blank">
     <img src="portfolio.png" alt="Portfolio" height="100" />
 
