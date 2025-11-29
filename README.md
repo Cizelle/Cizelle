@@ -1,6 +1,6 @@
 <img src="ipshita.svg" alt="Namaste, I'm Ipshita Rawat✨" />
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <hr>
 <h3 align="left">About Me:</h3>
