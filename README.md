@@ -7,7 +7,6 @@
 <ul>
 <li>🌱 I’m currently learning Java
 
-<li> 👨‍💻 All of my projects are available at : https://ipshita.info/
 
 <li> 💬 Ask me about astrology, backend and android
 
@@ -81,10 +80,7 @@
     <img src="guestbook.png" alt="Guestbook" height="100" />
  
   </a>
-  <a href="https://ipshita.info" target="_blank">
-    <img src="portfolio.png" alt="Portfolio" height="100" />
-
-  </a>
+ 
 
 </div> <br>
 <img src="snowflake.svg" alt="Thanks, bye✨" />
